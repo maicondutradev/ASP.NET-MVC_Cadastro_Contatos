@@ -1,6 +1,6 @@
 ## Sobre o Projeto
 
-Neste projeto, criei uma API que realiza operações CRUD (Create, Read, Update, Delete) conectada a um banco de dados SQL Server. A aplicação permite:
+Neste projeto, criei uma API que realiza operações CRUD (Create, Read, Update, Delete) conectada a um banco de dados SQL Server, Além de utilizar o ASP.NET MVC. A aplicação permite:
 
 - **Cadastrar Contatos:** Adicionar novos contatos ao banco de dados.
 - **Atualizar Dados do Contato:** Editar as informações de contatos já existentes.
