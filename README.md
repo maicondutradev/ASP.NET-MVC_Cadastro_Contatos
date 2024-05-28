@@ -11,7 +11,7 @@ Neste projeto, criei uma API que realiza operações CRUD (Create, Read, Update,
 
 - **ASP.NET MVC:** Framework utilizado para desenvolver a estrutura do site e da API.
 - **SQL Server:** Banco de dados utilizado para armazenar os dados dos contatos.
-- **Entity Framework:** ORM (Object-Relational Mapping) utilizado para facilitar a interação com o banco de dados.
+- **Entity Framework:** ORM ( Object-Relational Mapping ) utilizado para facilitar a interação com o banco de dados.
 - **Bootstrap:** Framework CSS utilizado para estilizar a interface do usuário.
 - **DataTables:** Biblioteca JavaScript utilizada para fornecer funcionalidades avançadas de tabela, como paginação e busca.
 
