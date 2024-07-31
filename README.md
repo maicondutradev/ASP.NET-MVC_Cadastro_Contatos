@@ -3,7 +3,7 @@
 Neste projeto, criei uma API que realiza operações CRUD (Create, Read, Update, Delete) conectada a um banco de dados SQL Server, Além de utilizar o ASP.NET MVC. A aplicação permite:
 
 - **Cadastrar Contatos:** Adicionar novos contatos ao banco de dados.
-- **Atualizar Dados do Contato:** Editar as informações de contatos já existentes.
+- **Atualizar Dados do Contato:** Editar as informações dos contatos já existentes.
 - **Excluir Contatos:** Remover contatos do banco de dados.
 - **Visualizar Contatos:** Listar todos os contatos cadastrados com opções de paginação e busca.
 
